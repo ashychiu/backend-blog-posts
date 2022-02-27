@@ -22,7 +22,7 @@ npm start
 
 To download this project and view it locally, run the following commands in your terminal:
 
-git clone git@github.com:ashychiu/backend-blog-posts.git
-cd backend-blog-posts
+git clone git@github.com:ashychiu/backend-blog-posts.git  
+cd backend-blog-posts  
 npm install  
 npm start
